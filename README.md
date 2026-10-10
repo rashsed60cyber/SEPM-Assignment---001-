@@ -44,4 +44,4 @@ Observation
 A static variable is shared among all threads. A non-static counter belongs to an individual thread's counter object. An ordinary shared counter may lose updates when multiple threads access it concurrently. AtomicLong provides thread-safe increment operations.
 Conclusion
 
-This experiment demonstrates the difference between shared static counters, individual non-static counters, and thread-safe counting in Java.
+This experiment demonstrates the difference between shared static counters, individual non-static counters, and thread-safe counting in Java. 
