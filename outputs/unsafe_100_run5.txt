@@ -1,0 +1,8 @@
+Mode: UNSAFE
+Threads: 100
+Increments per thread: 50000
+Expected count: 5000000
+Static count: 3588237
+Non-static total: 5000000
+Absolute difference: 1411763
+Difference: 28.2353%

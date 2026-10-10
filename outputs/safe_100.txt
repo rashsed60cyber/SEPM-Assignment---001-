@@ -1,0 +1,8 @@
+Mode: SAFE
+Threads: 100
+Increments per thread: 50000
+Expected count: 5000000
+Static count: 5000000
+Non-static total: 5000000
+Absolute difference: 0
+Difference: 0.0000%
